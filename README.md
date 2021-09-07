@@ -220,6 +220,20 @@ int main() {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/hypot`][@stdlib/math/base/special/hypot]: compute the hypotenuse avoiding overflow and underflow.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -278,6 +292,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-hypotf/main/LICENSE
 
 [hypotenuse]: http://en.wikipedia.org/wiki/Pythagorean_theorem
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/hypot]: https://github.com/stdlib-js/math-base-special-hypot
+
+<!-- </related-links> -->
 
 </section>
 
