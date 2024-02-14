@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@deno/mod.js';
+import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@v0.2.0-deno/mod.js';
 ```
 
 #### hypotf( x, y )
@@ -100,7 +100,7 @@ h = hypotf( 5.0, NaN );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@deno/mod.js';
+import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@v0.2.0-deno/mod.js';
 
 var x;
 var y;
