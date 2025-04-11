@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-02)
+## Unreleased (2025-04-11)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0395909`](https://github.com/stdlib-js/stdlib/commit/03959095fb9ffbe34ca9603b27c5204ce82d8c89) - **docs:** replace manual `for` loop in examples [(#6638)](https://github.com/stdlib-js/stdlib/pull/6638) _(by Harsh)_
 -   [`8af2d8d`](https://github.com/stdlib-js/stdlib/commit/8af2d8d5690438af3fb3bcbc03b304ab4bef13cf) - **fix:** update `hypotf` to follow the IEEE 754-2019 standard [(#6511)](https://github.com/stdlib-js/stdlib/pull/6511) _(by Karan Anand)_
 -   [`e91af13`](https://github.com/stdlib-js/stdlib/commit/e91af13bf35384d0ee1163fe3074c79f1a01bc72) - **refactor:** update `math/base/special/hypotf` to follow latest project conventions [(#4783)](https://github.com/stdlib-js/stdlib/pull/4783) _(by Vivek Maurya, Athan Reines)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Karan Anand
 -   Vivek Maurya
 
