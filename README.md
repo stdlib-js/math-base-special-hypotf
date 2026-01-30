@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-hypotf/tags). For example,
+
+```javascript
 import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@v0.2.3-deno/mod.js';
 ```
 
@@ -100,7 +105,7 @@ h = hypotf( 5.0, NaN );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@v0.2.3-deno/mod.js';
+import hypotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hypotf@deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
